@@ -1,0 +1,26 @@
+.enlaces{
+        color:#13ce48;
+        font-size: 10px;
+        text-decoration: none;
+    }
+
+.enlaces2{
+        color:#1913ce;
+        font-size: 25px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-decoration: line-through;
+    }
+
+.enlaces3{
+        color:#e915db;
+        font-size: 50px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-decoration-style: wavy;
+    }
+
+ .enlaces4{
+        color:#180b01;
+        font-size: 80px;
+        font-family: Copperplate;
+        text-decoration-style: dashed
+    }
