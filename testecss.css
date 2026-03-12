@@ -24,3 +24,26 @@
         font-family: Copperplate;
         text-decoration-style: dashed
     }
+
+    body{
+        background-color: rgb(207, 253, 253);
+    } 
+
+    .cajita {
+        width: 100px;
+    height: 100px;
+    background-image: url(/sad.png);
+    background-color: rgb(207, 253, 253);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    transition: all 1.5s ease;
+
+    &:hover {
+        transform: scale(1.2) rotate(360deg);
+        background-image: url(/happy.png);
+        background-color: rgb(207, 253, 253);
+        }
+
+
+    }
